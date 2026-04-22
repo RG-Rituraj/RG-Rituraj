@@ -19,8 +19,8 @@ I am a B.Tech CSE student at Gautam Buddha University, passionate about building
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=RG-Rituraj&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RG-Rituraj&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
